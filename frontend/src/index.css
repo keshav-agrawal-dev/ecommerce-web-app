@@ -1,0 +1,23 @@
+@import 'tailwindcss';
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  max-width: 1200px;
+}
+
+body {
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+.wrapper {
+  animation: scroll 15s 5s linear infinite alternate;
+}
+
+@keyframes scroll {
+  to {
+    transform: translateX(calc(-5 * (16rem - 1rem)));
+  }
+}
