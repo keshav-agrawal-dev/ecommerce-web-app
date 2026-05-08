@@ -21,7 +21,7 @@ function Navbar({ isLogin, setIsLogin, toggleSidebar }) {
       </button>
 
       <Link to="/" className="text-white text-[22px] font-bold no-underline">
-        Kalawati Vastralaya
+        ShopPro
       </Link>
 
       <div className="nav-links">

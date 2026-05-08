@@ -85,7 +85,7 @@ function ProductDetails({ setLoading }) {
             <p className="text-[14px]">Fast Delivery</p>
           </div>
           <div className="flex items-center gap-2 justify-center border">
-            <p className="text-[14px]">Kalawati Vastralaya Delivered</p>
+            <p className="text-[14px]">ShopPro Delivered</p>
           </div>
         </aside>
         <div className="flex flex-col gap-2.5 mt-5">
