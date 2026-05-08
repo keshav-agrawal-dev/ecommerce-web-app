@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:3000'
+const BASE_URL = 'https://ecommerce-web-app-Orwo.onrender.com'
 
 export const api = async (url, options = {}) => {
   try {
